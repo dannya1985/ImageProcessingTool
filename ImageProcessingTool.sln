@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessingTool", "ImageProcessingTool\ImageProcessingTool.csproj", "{BD69D386-A24A-4261-B853-191B42823FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD69D386-A24A-4261-B853-191B42823FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD69D386-A24A-4261-B853-191B42823FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD69D386-A24A-4261-B853-191B42823FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD69D386-A24A-4261-B853-191B42823FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F15EF946-2186-4749-9DE4-029EA891F5C2}
+	EndGlobalSection
+EndGlobal
