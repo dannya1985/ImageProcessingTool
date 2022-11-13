@@ -10,3 +10,6 @@ The project is meant to be used in conjunction with anyother project that takes 
 The test simply provides a certainty level (percentage) of a match being found in the source image, it then marks it with a red rectangle and saves the resulting image as "Result.jpg" in the application working directory for later review if needed.
 
 The idea of this test project is to use it as a playground/testing sandbox for additional image functionality, such as continuous image detection of specific applications in order to facilitate automation of some kind based off of images present on the screen.
+
+Example of the test project, showing a correct 99.9% certainty of finding the Watchlist icon (near the top left) in Plex.
+![](https://github.com/dannya1985/ImageProcessingTool/blob/master/ImageProcessingTool/example.png)
