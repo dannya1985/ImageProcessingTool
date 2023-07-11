@@ -17,8 +17,8 @@ namespace ImageProcessingTool
         {
             InitializeComponent();
 
-            textBox1.Text = @"C:\Users\dodgy\source\repos\Utils\ImageProcessingTool\ImageProcessingTool\source_images\Plex-almost_fullscreen-png.png";
-            textBox2.Text = @"C:\Users\dodgy\source\repos\Utils\ImageProcessingTool\ImageProcessingTool\reference_images\Plex - Watchlist Icon.png";
+            textBox1.Text = @"C:\ImageProcessingTool\source_images\Plex-almost_fullscreen-png.png";
+            textBox2.Text = @"C:\ImageProcessingTool\ImageProcessingTool\reference_images\Plex - Watchlist Icon.png";
 
             //squishify the image if it's huge and wont fit on the form
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
